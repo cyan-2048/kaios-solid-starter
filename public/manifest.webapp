@@ -1,0 +1,33 @@
+{
+	"name": "SolidJS App",
+	"description": "A starter template for SolidJS and TypeScript.",
+	"version": "1.0.0",
+	"launch_path": "/index.html",
+	"theme": "#335d92",
+	"theme_color": "#335d92",
+	"background_color": "#335d92",
+	"fullscreen": "true",
+	"chrome": {
+		"statusbar": "overlap"
+	},
+	"orientation": "default",
+	"icons": {
+		"56": "/icon56.png",
+		"112": "/icon112.png"
+	},
+	"developer": {
+		"name": "cyan-2048",
+		"url": "https://github.com/cyan-2048/kaios-solid-starter"
+	},
+	"origin": "app://solid-app.cyankindasus.com",
+	"type": "privileged",
+	"permissions": {},
+	"locales": {
+		"en-US": {
+			"name": "SolidJS App",
+			"subtitle": "A starter template for SolidJS and TypeScript.",
+			"description": "A starter template for SolidJS and TypeScript."
+		}
+	},
+	"default_locale": "en"
+}

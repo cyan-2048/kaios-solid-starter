@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"strict": true,
+		"target": "es6",
+		"lib": ["DOM", "ES6", "ES2016", "ES2017"],
+		"module": "ESNext",
+		"moduleResolution": "node",
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"jsx": "preserve",
+		"jsxImportSource": "solid-js",
+		"types": ["vite/client"],
+		"noEmit": true,
+		"isolatedModules": true,
+		"baseUrl": ".",
+		"outDir": "./dist"
+	}
+}
