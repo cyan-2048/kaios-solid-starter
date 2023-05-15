@@ -13,7 +13,7 @@ export default defineConfig({
 		cssCodeSplit: false,
 		modulePreload: false,
 		assetsInlineLimit: 0,
-		minify: false,
+		minify: true,
 		ssr: false,
 		rollupOptions: {
 			output: {
